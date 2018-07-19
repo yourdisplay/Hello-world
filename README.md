@@ -4,4 +4,4 @@ For example, repository #1
 I want to learn C++ and JavaScript programming language.
 
 Check communication on Win7(KSA)
-Ok (Win7(KSA))
+Check again (Win7(KSA))
